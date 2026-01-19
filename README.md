@@ -43,4 +43,7 @@ python main.py
 * Training and validation loss graphs
 * Predicted image with class label
 
+* <img width="1200" height="600" alt="Image" src="https://github.com/user-attachments/assets/a8cf1f4d-9f97-4a8b-9355-b9d1027f8bae" />
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/46278986-eca2-41f6-a855-7e947988dc96" />
+
 
